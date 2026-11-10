@@ -1,4 +1,4 @@
-# Cipher App 🔐
+# Cipher App 
 
 A Flutter application for encrypting and decrypting text with three classical cryptographic algorithms: **Caesar Cipher**, **Rail Fence Cipher**, and **Vigenère Cipher**.
 
@@ -11,7 +11,7 @@ The app provides a straightforward interface for selecting an algorithm, enterin
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-3DDC84" alt="Platforms" />
 </p>
 
-## ✨ Features
+##   Features
 
 - **Encrypt and decrypt text** using three classical cipher algorithms.
 - **Caesar Cipher:** Configure the shift key used to transform the text.
@@ -20,7 +20,7 @@ The app provides a straightforward interface for selecting an algorithm, enterin
 - **Simple, user-friendly interface** built with Flutter and Material Design.
 - **Cubit-based state management** to organize application state.
 
-## 🔐 Supported Algorithms
+##   Supported Algorithms
 
 | Algorithm | Key | Description |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ The app provides a straightforward interface for selecting an algorithm, enterin
 
 All three algorithms support both **encryption** and **decryption**.
 
-## 🛠️ Tech Stack
+##   Tech Stack
 
 - **Flutter** — Cross-platform UI framework.
 - **Dart** — Application programming language.
@@ -74,11 +74,11 @@ Make sure you have the following installed:
    flutter run
    ```
 
-## 📁 Project Overview
+##  Project Overview
 
 The application is developed with Flutter and uses Cubit for state management. Each cipher provides its own encryption and decryption functionality, while the interface allows users to interact with the selected algorithm and its key.
 
-## 👨‍💻 Developer
+##  Developer
 
 **Mahmoud Elghamry**  
 Flutter Developer
@@ -87,4 +87,4 @@ Flutter Developer
 
 ---
 
-If you find this project useful, feel free to explore the repository and leave a ⭐.
+If you find this project useful, feel free to explore the repository and leave a .
